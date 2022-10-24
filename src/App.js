@@ -1,9 +1,9 @@
 import React from "react";
-import PortfolioContainer from "./components/PortfolioContainer";
+import ContentContainer from "./components/ContentContainer";
 import Footer from "./components/Footer";
 
 const App = () => <>
-<PortfolioContainer />
+<ContentContainer />
 <Footer />
 </>;
 
