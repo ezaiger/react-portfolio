@@ -6,10 +6,10 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     <>
       <nav className="navbar navbar-expand-lg bg-light">
-        <div className="container-fluid">
-          <a className="navbar-brand" href="*">
+        <div className="header container-fluid sticky-top">
+          <h1>
             E. Zaiger Portfolio
-          </a>
+          </h1>
           <button
             className="navbar-toggler"
             type="button"
