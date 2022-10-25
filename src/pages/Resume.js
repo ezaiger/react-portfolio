@@ -3,8 +3,9 @@ import React from 'react';
 export default function Resume() {
   return (
     <div>
-      <h2>Resume Page</h2>
+      <h2>Resume</h2>
       <p>
+        Click <a href="/resume.pdf" target="_blank">here</a> to view my resume.
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
         Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
         dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
