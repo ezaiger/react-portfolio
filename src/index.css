@@ -20,11 +20,12 @@ body {
 }
 
 h2 {
-  padding: 10px 0 5px 10px;
+  padding: 10px 0 0 10px;
 }
 
 p {
-  padding-left: 10px;
+  text-align:left;
+  margin: 0 10px 0 10px;
 }
 
 /* header styles */
@@ -50,5 +51,19 @@ p {
 }
 
 .nav-item a:hover {
+  color:#540B0E;
+}
+
+.img-thumbnail {
+  width: 25vh;
+  float: left;
+  margin: 0 5px 0 5px;
+}
+
+i {
+  color:#284952;
+}
+
+i:hover {
   color:#540B0E;
 }
