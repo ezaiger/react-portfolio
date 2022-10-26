@@ -12,6 +12,7 @@
 
 body {
   margin: 0;
+  margin-bottom: 100px !important;
   padding: 0;
   background-color: var(--background-color);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -69,8 +70,9 @@ i:hover {
 }
 
 .card {
-  margin: 0 10px 0 10px;
+  margin: 10px 10px 10px 10px;
   width: 30vh;
+  display: flex;
 }
 
 .card img {
@@ -79,10 +81,28 @@ i:hover {
   object-fit: cover;
 }
 
-.card-link {
-  text-align: center !important;
-}
-
 .card-img-top {
   object-fit: cover !important;
+}
+
+.card-body {
+  margin: auto;
+}
+
+.card-body p {
+  margin: 0;
+}
+
+.card-footer a {
+  text-decoration: none !important;
+  font-weight: bold;
+  color: var(--tertiary-color);
+}
+
+.card-footer a:hover {
+  color:#540B0E;
+}
+
+form {
+  margin: 0 10px 0 10px;
 }

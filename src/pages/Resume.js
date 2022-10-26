@@ -6,19 +6,27 @@ export default function Resume() {
       <h2>Resume</h2>
       <p>
         Click <a href="/resume.pdf" target="_blank">here</a> to view my resume.
-        Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-        Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-        dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-        sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-        sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-        vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-        libero. Class aptent taciti sociosqu ad litora torquent per conubia
-        nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-        lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-        in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-        bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-        est ligula suscipit velit, sed bibendum turpis dui in sapien.
+        <br></br>
+        <h3>Front-End Proficiencies</h3>
+          <ul className="skills">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>jQuery</li>
+            <li>Responsive Design</li>
+            <li>React</li>
+            <li>Bootstrap</li>
+          </ul>
+        <h3>Back-End Proficiencies</h3>
+        <ul className="skills">
+            <li>APIs</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>MySQL, Sequelize</li>
+            <li>MongoDB, Mongoose</li>
+            <li>REST</li>
+            <li>GraphQL</li>
+          </ul>
       </p>
     </div>
   );
