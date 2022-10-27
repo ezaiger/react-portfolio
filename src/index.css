@@ -24,6 +24,10 @@ h2 {
   padding: 10px 0 0 10px;
 }
 
+h3 {
+  padding-top: 25px;
+}
+
 p {
   text-align:left;
   margin: 0 10px 0 10px;
@@ -106,3 +110,4 @@ i:hover {
 form {
   margin: 0 10px 0 10px;
 }
+

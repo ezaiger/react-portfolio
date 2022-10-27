@@ -6,7 +6,6 @@ export default function Resume() {
       <h2>Resume</h2>
       <p>
         Click <a href="/resume.pdf" target="_blank">here</a> to view my resume.
-        <br></br>
         <h3>Front-End Proficiencies</h3>
           <ul className="skills">
             <li>HTML</li>

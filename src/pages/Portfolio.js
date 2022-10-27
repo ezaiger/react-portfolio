@@ -17,7 +17,7 @@ export default function Portfolio() {
           of Oregon.
         </p>
       </div>
-      <div className="row row-cols-1 row-cols-md-3 g-4">
+      <div className="row row-cols-1 row-cols-md-3 g-4 mx-auto">
         {/* Project 1 */}
         <div className="col">
           <div className="card h-100">
