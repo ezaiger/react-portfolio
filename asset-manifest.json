@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.0be97d4e.css",
+    "main.js": "/react-portfolio/static/js/main.345d9ca6.js",
+    "static/media/octocat.png": "/react-portfolio/static/media/octocat.be0c32a2acb1be3becce.png",
+    "static/media/smorgasbord.png": "/react-portfolio/static/media/smorgasbord.82b6075ffbf6ad7e6e8d.png",
+    "static/media/Ezaiger.jpg": "/react-portfolio/static/media/Ezaiger.bb64bf7ec45f92254cbb.jpg",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.a1163ebbc07559c5de17.png",
+    "static/media/campfirecast.png": "/react-portfolio/static/media/campfirecast.ffd86d0b7bcf30691ce0.png",
+    "static/media/work-scheduler.png": "/react-portfolio/static/media/work-scheduler.397499ef9d7eb15a36f0.png",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.62210d0acef5b67e6ca0.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.0be97d4e.css.map": "/react-portfolio/static/css/main.0be97d4e.css.map",
+    "main.345d9ca6.js.map": "/react-portfolio/static/js/main.345d9ca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be97d4e.css",
+    "static/js/main.345d9ca6.js"
+  ]
+}
